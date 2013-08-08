@@ -10,6 +10,7 @@ Installation
 
 Yay! This program is really useless, but it can be installed!
 
+    git clone https://github.com/RandomiNetworks/hellyeah.git
     npm install
     node app.js
 
