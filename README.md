@@ -8,6 +8,7 @@ Requirements
 
 - Windows / OS X / Linux
 - Node.js
+- Redis
 
 
 Installation
