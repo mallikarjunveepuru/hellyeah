@@ -1,23 +1,29 @@
 HellYEAH
 ============
 
-I'm just testing this little thing out there.
+This is our first publicly available web application, powered by nodejs and express.
 
-This program will work on Windows, OS X and Linux.
+Requirements
+-------
+
+- Windows / OS X / Linux
+- NodeJS
+
 
 Installation
 -------
 
-Yay! This program is really useless, but it can be installed!
+Yay! Here are the instructions for installing the software.
 
     git clone https://github.com/RandomiNetworks/hellyeah.git
     npm install
     node app.js
 
+
 Usage
 -------
 
-To start hellyeah server:
+Start
 
     node app.js
 
