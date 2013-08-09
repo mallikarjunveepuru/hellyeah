@@ -26,4 +26,4 @@ Usage
 Start the server
 
     node app.js
-Now the server should be running on port 8000. You can change this setting in app.js file.
+Now the server should be running on port 8000. You can change this setting in the app.js file.
