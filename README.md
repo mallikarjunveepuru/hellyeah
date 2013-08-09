@@ -1,13 +1,13 @@
 HellYEAH
 ============
 
-This is our first publicly available web application, powered by nodejs and express.
+This is our first publicly available web application, powered by node.js and express.
 
 Requirements
 -------
 
 - Windows / OS X / Linux
-- NodeJS
+- Node.js
 
 
 Installation
@@ -23,7 +23,7 @@ Yay! Here are the instructions for installing the software.
 Usage
 -------
 
-Start
+Start the server
 
     node app.js
-
+Now the server should be running on port 8000. You can change this setting in app.js file.
